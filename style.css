@@ -1,0 +1,21 @@
+corpo{
+  preenchimento: 0;
+  margem: 0;
+  borda: 0;
+  fundo: rgb(24, 27, 30);
+  alinhamento de texto: centralizar;
+  tamanho da fonte: 20px;    
+}
+
+h1{
+  preenchimento-superior: 50px ;
+  cor: rgb(11, 237, 105);
+  transição: 4s;
+  família de fontes: roboto mono;    
+}
+
+h2{
+  cor: rgb(11, 237, 105);
+  transição: 5s;
+  família de fontes: roboto mono;
+}
